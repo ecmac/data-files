@@ -1,4 +1,4 @@
-data;hora;natureza_acidente;situacao;bairro;endereco;numero;detalhe_endereco_acidente;complemento;endereco_cruzamento;numero_cruzamento;referencia_cruzamento;bairro_cruzamento;tipo;auto;moto;ciclom;ciclista;pedestre;onibus;caminhao;viatura;outros;vitimas;vitimasfatais
+DATA;hora;natureza_acidente;situacao;bairro;endereco;numero;detalhe_endereco_acidente;complemento;endereco_cruzamento;numero_cruzamento;referencia_cruzamento;bairro_cruzamento;tipo;auto;moto;ciclom;ciclista;pedestre;onibus;caminhao;viatura;outros;vitimas;vitimasfatais
 2017-01-01;02:55:00;SEM VÍTIMA;CANCELADA;CABANGA;AV SUL;;;SEMAFORO 260;AV SUL;0;SEMAFORO 260;CABANGA;COLISÃO;1;;;;;1;;;;0;
 2017-01-01;05:32:00;SEM VÍTIMA;FINALIZADA;SANTO AMARO;RUA BARROS BARRETO;483;;PROX DO COLEGIO ESTACIO COIMBRA;RUA BARROS BARRETO;483;PROX DO COLEGIO ESTACIO COIMBRA;SANTO AMARO;CAPOTAMENTO;3;;;;;;;;;0;
 2017-01-01;06:00:00;SEM VÍTIMA;FINALIZADA;JARDIM SÃO PAULO;AV PIRACICABA;;;NO TERMINAL DOS ONIBUS JARDIM SAO PAULO PIRACICA;AV PIRACICABA;0;NO TERMINAL DOS ONIBUS JARDIM SAO PAULO PIRACICA;JARDIM SÃO PAULO;COLISÃO;1;;;;;1;;;;0;
